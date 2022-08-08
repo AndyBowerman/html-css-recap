@@ -75,3 +75,9 @@ footer img {
     height: 140px;
     width: auto;
 }
+
+.todo-item {
+    font-weight: bold;
+    list-style: none;
+    margin: 10px 0;
+}
